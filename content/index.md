@@ -4,7 +4,6 @@ layout: page
 permalink: /
 toc: true
 ---
-
 # Welcome to Aufbau 26
 
 This site is managed by Decap CMS.
@@ -36,3 +35,5 @@ Works on all devices and screen sizes.
 ## Next Steps
 
 Edit this page in Decap CMS to customize your content.
+
+Test
