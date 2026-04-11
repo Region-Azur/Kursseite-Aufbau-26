@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Allgemein
 layout: page
 permalink: /
 toc: true
