@@ -1,6 +1,7 @@
 ---
 title: Wanderung
-sidebar: false
+sidebar: true
+sidebar_title: Wanderung
 sidebar_icon: ""
 toc: true
 ---
