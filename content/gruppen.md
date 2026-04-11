@@ -5,7 +5,9 @@ sidebar_title: Gruppen
 sidebar_icon: fa-solid fa-users
 toc: true
 ---
-**Wanderung:** 
+[Wanderung](/wanderung)
+
+ 
 
    **Chili** – Lazuli, Wrigley, Apollo, Naïma
 
