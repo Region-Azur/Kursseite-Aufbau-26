@@ -1,6 +1,6 @@
 ---
 title: Lagerplanung
-sidebar: false
+sidebar: true
 sidebar_icon: ""
 toc: true
 ---
