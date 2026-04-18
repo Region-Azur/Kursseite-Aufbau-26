@@ -1,7 +1,7 @@
 ---
 title: Lagerplanung
 sidebar: true
-sidebar_title: ""
+sidebar_title: Lagerplanung
 sidebar_icon: fa-solid fa-star
 toc: true
 ---
