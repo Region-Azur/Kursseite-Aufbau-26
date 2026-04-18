@@ -9,8 +9,6 @@ Nach dem Aufbau solltet ihr ein Lager von A-Z als Hauptlagerleitung durchführe
 
 Viel Spass und GAVIGLÜ!
 
-
-
 Hier findet ihr den Auftrag zum Gefäss: 
 
 {% include download.html href="/static/uploads/auftrag_lagerplaung.pdf" label="Auftrag Lagerplanung" variant="primary" new_tab=true %}
