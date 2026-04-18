@@ -1,6 +1,7 @@
 ---
 title: Home
-sidebar: false
+sidebar: true
+sidebar_title: Home
 sidebar_icon: ""
 toc: true
 ---
