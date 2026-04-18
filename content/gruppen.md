@@ -7,8 +7,6 @@ toc: true
 ---
 [Wanderung](/wanderung)
 
- 
-
    **Chili** – Lazuli, Wrigley, Apollo, Naïma
 
    **Noisette** –  Onyx, Asterix, Eragon, Malva
@@ -22,3 +20,23 @@ toc: true
    **Chippo** – Cautus, Sonic, Khaleesi, Nox
 
    **Cajou** – Puma, Nuki, Raccoon, Nokia
+
+
+
+[TNB](/j-s-aktivität)
+
+   **Gruppe 1:** Nox, Lowa, Wrigley (Chippo)
+
+   **Gruppe 2:** Sonic, Onyx, Skip, Malva (Noisette)
+
+   **Gruppe 3:** Fennek, Yuyo, Struppi, Bagheera (Chili)
+
+   **Gruppe 4:** Asterix, Khaleesi, Cautus (Suki)
+
+   **Gruppe 5:** Vicuña, Nokia, Vaiana (Sherlock)
+
+   **Gruppe 6:** Apollo, Lazuli, Raccoon, Puma (Forrest)
+
+   **Gruppe 7:** Liv, Nuki, Eragon (Kaiko)
+
+   **Gruppe 8:** Linnéa, Stereo, Naïma (Cajou)
