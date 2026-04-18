@@ -1,6 +1,6 @@
 ---
 title: J&S-Aktivität
-sidebar: false
+sidebar: true
 sidebar_icon: ""
 toc: true
 ---
