@@ -16,7 +16,7 @@ Im Rahmen der J&SAktivität plant ihr einen LA-Block. Hier findet ihr alle dazu 
 
 **Durchführung:** 
 
-![](/static/uploads/bildschirmfoto-2026-04-18-um-11.09.44.png)
+![](/static/uploads/bildschirmfoto-2026-04-18-um-15.39.46.png)
 
 **Hilfsmittel:** 
 
