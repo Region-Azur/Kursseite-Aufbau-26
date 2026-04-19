@@ -5,11 +5,13 @@ sidebar_title: Wanderung
 sidebar_icon: fa-solid fa-star
 toc: true
 ---
+# Wanderung
+
+
+
 3x3
 
 •⁠  ⁠https://pfadi.swiss/media/files/fe/2014mb3x3unterwegsseind.pdf
-
-
 
 Siko
 
@@ -19,13 +21,9 @@ Siko
 
 •⁠  ⁠https://cudesch.scout.ch/de/books/sicherheit-verantwortung-tragen-Brc/page/beispiel-sicherheitskonzept-wanderung
 
-
-
 Routenplanung
 
 •⁠  ⁠https://www.extranet.jugendundsport.ch/ilias.php?baseClass=ilrepositorygui&cmdNode=xo:mv&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=27955 (Login: Benutzername: lagersport-trekking Passwort: 4JiWg)
-
-
 
 MZB
 
@@ -33,13 +31,9 @@ MZB
 
 •⁠  ⁠https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pfadi.swiss/de/publikationen-downloads/downloads/detail/447/marschzeitberechnung-cudesch/&ved=2ahUKEwiXt8KzyuqSAxVcg_0HHe9qIAYQFnoECBwQAQ&usg=AOvVaw0BixCtGmY5GLTlaZAvOi7i
 
-
-
 Packen
 
 •⁠  ⁠https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DaSYbPlIWwTA&ved=2ahUKEwi83YzvzOqSAxX25wIHHdBMF_wQwqsBegQIHRAB&usg=AOvVaw3obKvnOIQRfhZKF0L64DLD
-
-
 
 Tools zur Wanderungsplanung
 
