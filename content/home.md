@@ -2,7 +2,8 @@
 title: Home
 sidebar: true
 sidebar_title: Home
-sidebar_icon: ""
+sidebar_icon: fa-solid fa-house
+sidebar_order: 1
 toc: true
 ---
 # Aufbau Mixed 26
