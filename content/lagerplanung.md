@@ -35,11 +35,9 @@ Grobprogramm:
 
 {% include download.html href="/static/uploads/how-to-ecamp.pdf" label="Anleitung EcampV3" variant="primary" new_tab=true %}
 
-
-
-
-
 ###### 2. Werkstatt
+
+
 
 Siko: 
 
