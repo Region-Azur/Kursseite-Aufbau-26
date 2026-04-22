@@ -80,3 +80,11 @@ Elternkontakt:
 {% include download.html href="/static/uploads/elternkontakt_arbeitsblatt.pdf" label="Auftrag Elternkontakt" variant="primary" new_tab=true %}
 
 {% include download.html href="/static/uploads/elterabend.pptx" label="Vorlage Elternabend" variant="primary" new_tab=true %}
+
+{% include download.html href="/static/uploads/person1.pdf" label="Person 1" variant="primary" new_tab=true %}
+
+{% include download.html href="/static/uploads/person2.pdf" label="Person 2" variant="primary" new_tab=true %}
+
+{% include download.html href="/static/uploads/person3.pdf" label="Person 3" variant="primary" new_tab=true %}
+
+{% include download.html href="/static/uploads/person4.pdf" label="Person 4" variant="primary" new_tab=true %}
