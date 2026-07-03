@@ -21,7 +21,9 @@ Siko
 
 Routenplanung
 
-•⁠  ⁠https://www.extranet.jugendundsport.ch/ilias.php?baseClass=ilrepositorygui&cmdNode=xo:mv&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=27955 (Login: siehe [cudesch.scout.ch](https://cudesch.scout.ch/))
+•⁠  ⁠https://www.extranet.jugendundsport.ch/ilias.php?baseClass=ilrepositorygui&cmdNode=xo:mv&cmdClass=ilObjFileGUI&cmd=sendfile&ref_id=27955
+
+(Login: siehe [cudesch.scout.ch](https://cudesch.scout.ch/))
 
 MZB
 
