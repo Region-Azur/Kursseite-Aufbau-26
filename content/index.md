@@ -3,8 +3,8 @@ title: Home
 layout: page
 permalink: /
 sidebar: true
-sidebar_icon: fa-solid fa-house
-sidebar_order: 1
+sidebar_icon: null
+sidebar_order: 0
 toc: true
 ---
 # Aufbau Mixed 26
