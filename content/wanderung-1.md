@@ -25,13 +25,13 @@ Routenplanung
 
 MZB
 
-•⁠  ⁠https://www.sac-cas.ch/de/die-alpen/marschzeitberechnung-5310/
+•⁠  [⁠https://www.sac-cas.ch/de/die-alpen/marschzeitberechnung-5310/](https://www.sac-cas.ch/de/die-alpen/marschzeitberechnung-5310/)
 
-•⁠  <https://pfadi.swiss/de/publikationen-downloads/downloads/detail/447/marschzeitberechnung-cudesch/&ved=2ahUKEwiXt8KzyuqSAxVcg_0HHe9qIAYQFnoECBwQAQ&usg=AOvVaw0BixCtGmY5GLTlaZAvOi7i>
+•⁠  <https://pfadi.swiss/de/publikationen-downloads/downloads/detail/447/marschzeitberechnung-cudesch/>
 
 Packen
 
-•⁠  ⁠[https://www.youtube.com/watch%3Fv%3DaSYbPlIWwTA&ved=2ahUKEwi83YzvzOqSAxX25wIHHdBMF_wQwqsBegQIHRAB&usg=AOvVaw3obKvnOIQRfhZKF0L64DLD](⁠https://www.youtube.com/watch%3Fv%3DaSYbPlIWwTA&ved=2ahUKEwi83YzvzOqSAxX25wIHHdBMF_wQwqsBegQIHRAB&usg=AOvVaw3obKvnOIQRfhZKF0L64DLD)
+•⁠  ⁠[https://www.youtube.com/watch?v=aSYbPlIWwTA](⁠https://www.youtube.com/watch%3Fv%3DaSYbPlIWwTA&ved=2ahUKEwi83YzvzOqSAxX25wIHHdBMF_wQwqsBegQIHRAB&usg=AOvVaw3obKvnOIQRfhZKF0L64DLD)
 
 Tools zur Wanderungsplanung
 
